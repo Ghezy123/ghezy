@@ -1,2 +1,3 @@
-ghezy
-programming
+nama : ghezy
+divisi : programming
+subdivisi : Mobile programming
