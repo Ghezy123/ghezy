@@ -1,3 +1,4 @@
-nama : ghezy
-divisi : programming
-subdivisi : Mobile programming
+nama : Ghezy Pramudinata Briliantama
+divisi : Programming
+subdivisi : Mobile Programming
+nim : 2411522036
